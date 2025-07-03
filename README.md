@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-**CairoRide** is a console-based C++ application developed as a project for the *Structured Programming* course at the Faculty of Computers and Information, Ain Shams University.
+**CairoRide** is a console-based C++ application developed as a group project for the *Structured Programming* course at the Faculty of Computers and Information, Ain Shams University.
 It simulates a metro ticketing system for the Cairo Metro, allowing users to manage accounts, purchase subscriptions, book rides, and track travel history, while administrators can oversee user accounts, subscriptions, stations, and fares.
 The system uses a text-based interface and stores data persistently in text files.
 📄 For a detailed description of features and deliverables, refer to `CairoRide.pdf`.
