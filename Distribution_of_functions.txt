@@ -1,0 +1,64 @@
+void createAcc();
+void signIn();
+void signOut();
+---> Alia Wael
+-------------------------------------------------
+int choose_subscription(int);
+void general_plan(int);
+void scholar_plan(int);
+void choose_zone(int);
+void set_remaining_trips(int);
+bool payment_subscription(int);
+void subscription_date(int);
+void view_subscription(int);
+void renew_subscription(int);
+void upgrade_subscription(int);
+bool is_subscription_active(int);
+int validation(int, int);
+bool deduct_price(int, int);
+void set_expiry_date(int);
+bool try_again();
+void calculate_birthday(int);
+---> Sama Hassan 
+------------------------------------------------
+void reading_process();
+void writing_process(); 
+-> FILE STREAMING
+void view_stations(int);
+int find_station(int, int);
+int find_tStation(int, int);
+int calculate_stations(int, int, int);
+float calculate_fare(int);
+void generate_ride_ID(string&);
+void save_date();
+void book_a_trip(int, int, int, int, string);
+void view_ride_history(string);
+void view_fare_price();
+---> Salwa Mohamed
+------------------------------------------------
+void renumering();
+void Edit_Commuter();
+void Viewuser(int user_Index);
+void modifyUser(int user_Index);
+void remove_commuter(int user_Index);
+void edit_subscription();
+void Discontinue_Subscription(int user_Index);
+void StationManagement();
+void EditStation();
+void RemoveStation();
+void EditFare();
+void viewRides();
+void addSubscription(int user_Index);
+---> Zaineb Assem
+-------------------------------------------------
+bool wallet_charging(int);
+void UpdateProfile();
+void Setcolor(int);
+void EditSubscriptionPrice();
+---> Habiba Sherif
+-------------------------------------------------
+void AddStation();
+void statistics();
+Checking the flow of the code and testing.
+---> Shahd Mohamed
+-------------------------------------------------
